@@ -1,4 +1,4 @@
 #AtrsAndCrafts
-Git hub tutorial
-ygkejah:wq
-W
+
+
+git hub is a version control system, by using git we can track our work easly.
